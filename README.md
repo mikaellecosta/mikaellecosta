@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mikaellecosta
 - 👀 I’m interested in back-end development, cyber security and database.
-- 🌱 I’m currently learning DevSecOps.
-- 💞️ I’m looking to collaborate on anything about my interests.
+- 🌱 I’m currently learning some programming langs.
 - 📫 How to reach me: send me an e-mail !
 
 <!---
